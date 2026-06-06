@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F121A0942FD32BDE00516434 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = F121A0932FD32BDE00516434 /* RealityKitContent */; };
+		F1B8FDAC2FD43C6C00B3E42A /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = F1B8FDAB2FD43C6C00B3E42A /* RealityKitContent */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F121A08E2FD32BDE00516434 /* SpatialBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpatialBox.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F121A0922FD32BDE00516434 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
+		F1B8FDA62FD43C6C00B3E42A /* SpatialBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpatialBox.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1B8FDAA2FD43C6C00B3E42A /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		F121A09C2FD32BDF00516434 /* Exceptions for "SpatialBox" folder in "SpatialBox" target */ = {
+		F1B8FDB42FD43C6D00B3E42A /* Exceptions for "SpatialBox" folder in "SpatialBox" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = F121A08D2FD32BDE00516434 /* SpatialBox */;
+			target = F1B8FDA52FD43C6C00B3E42A /* SpatialBox */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F121A0902FD32BDE00516434 /* SpatialBox */ = {
+		F1B8FDA82FD43C6C00B3E42A /* SpatialBox */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				F121A09C2FD32BDF00516434 /* Exceptions for "SpatialBox" folder in "SpatialBox" target */,
+				F1B8FDB42FD43C6D00B3E42A /* Exceptions for "SpatialBox" folder in "SpatialBox" target */,
 			);
 			path = SpatialBox;
 			sourceTree = "<group>";
@@ -37,38 +37,38 @@
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F121A08B2FD32BDE00516434 /* Frameworks */ = {
+		F1B8FDA32FD43C6C00B3E42A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F121A0942FD32BDE00516434 /* RealityKitContent in Frameworks */,
+				F1B8FDAC2FD43C6C00B3E42A /* RealityKitContent in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F121A0852FD32BDE00516434 = {
+		F1B8FD9D2FD43C6C00B3E42A = {
 			isa = PBXGroup;
 			children = (
-				F121A0902FD32BDE00516434 /* SpatialBox */,
-				F121A0912FD32BDE00516434 /* Packages */,
-				F121A08F2FD32BDE00516434 /* Products */,
+				F1B8FDA82FD43C6C00B3E42A /* SpatialBox */,
+				F1B8FDA92FD43C6C00B3E42A /* Packages */,
+				F1B8FDA72FD43C6C00B3E42A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F121A08F2FD32BDE00516434 /* Products */ = {
+		F1B8FDA72FD43C6C00B3E42A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F121A08E2FD32BDE00516434 /* SpatialBox.app */,
+				F1B8FDA62FD43C6C00B3E42A /* SpatialBox.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F121A0912FD32BDE00516434 /* Packages */ = {
+		F1B8FDA92FD43C6C00B3E42A /* Packages */ = {
 			isa = PBXGroup;
 			children = (
-				F121A0922FD32BDE00516434 /* RealityKitContent */,
+				F1B8FDAA2FD43C6C00B3E42A /* RealityKitContent */,
 			);
 			path = Packages;
 			sourceTree = "<group>";
@@ -76,65 +76,65 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F121A08D2FD32BDE00516434 /* SpatialBox */ = {
+		F1B8FDA52FD43C6C00B3E42A /* SpatialBox */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F121A09D2FD32BDF00516434 /* Build configuration list for PBXNativeTarget "SpatialBox" */;
+			buildConfigurationList = F1B8FDB52FD43C6D00B3E42A /* Build configuration list for PBXNativeTarget "SpatialBox" */;
 			buildPhases = (
-				F121A08A2FD32BDE00516434 /* Sources */,
-				F121A08B2FD32BDE00516434 /* Frameworks */,
-				F121A08C2FD32BDE00516434 /* Resources */,
+				F1B8FDA22FD43C6C00B3E42A /* Sources */,
+				F1B8FDA32FD43C6C00B3E42A /* Frameworks */,
+				F1B8FDA42FD43C6C00B3E42A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F121A0902FD32BDE00516434 /* SpatialBox */,
+				F1B8FDA82FD43C6C00B3E42A /* SpatialBox */,
 			);
 			name = SpatialBox;
 			packageProductDependencies = (
-				F121A0932FD32BDE00516434 /* RealityKitContent */,
+				F1B8FDAB2FD43C6C00B3E42A /* RealityKitContent */,
 			);
 			productName = SpatialBox;
-			productReference = F121A08E2FD32BDE00516434 /* SpatialBox.app */;
+			productReference = F1B8FDA62FD43C6C00B3E42A /* SpatialBox.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F121A0862FD32BDE00516434 /* Project object */ = {
+		F1B8FD9E2FD43C6C00B3E42A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2650;
 				LastUpgradeCheck = 2650;
 				TargetAttributes = {
-					F121A08D2FD32BDE00516434 = {
+					F1B8FDA52FD43C6C00B3E42A = {
 						CreatedOnToolsVersion = 26.5;
 					};
 				};
 			};
-			buildConfigurationList = F121A0892FD32BDE00516434 /* Build configuration list for PBXProject "SpatialBox" */;
+			buildConfigurationList = F1B8FDA12FD43C6C00B3E42A /* Build configuration list for PBXProject "SpatialBox" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = F121A0852FD32BDE00516434;
+			mainGroup = F1B8FD9D2FD43C6C00B3E42A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F121A08F2FD32BDE00516434 /* Products */;
+			productRefGroup = F1B8FDA72FD43C6C00B3E42A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F121A08D2FD32BDE00516434 /* SpatialBox */,
+				F1B8FDA52FD43C6C00B3E42A /* SpatialBox */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F121A08C2FD32BDE00516434 /* Resources */ = {
+		F1B8FDA42FD43C6C00B3E42A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -144,7 +144,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F121A08A2FD32BDE00516434 /* Sources */ = {
+		F1B8FDA22FD43C6C00B3E42A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -154,7 +154,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F121A09E2FD32BDF00516434 /* Debug */ = {
+		F1B8FDB62FD43C6D00B3E42A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -183,7 +183,7 @@
 			};
 			name = Debug;
 		};
-		F121A09F2FD32BDF00516434 /* Release */ = {
+		F1B8FDB72FD43C6D00B3E42A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -212,7 +212,7 @@
 			};
 			name = Release;
 		};
-		F121A0A02FD32BDF00516434 /* Debug */ = {
+		F1B8FDB82FD43C6D00B3E42A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -276,7 +276,7 @@
 			};
 			name = Debug;
 		};
-		F121A0A12FD32BDF00516434 /* Release */ = {
+		F1B8FDB92FD43C6D00B3E42A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -336,20 +336,20 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F121A0892FD32BDE00516434 /* Build configuration list for PBXProject "SpatialBox" */ = {
+		F1B8FDA12FD43C6C00B3E42A /* Build configuration list for PBXProject "SpatialBox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F121A0A02FD32BDF00516434 /* Debug */,
-				F121A0A12FD32BDF00516434 /* Release */,
+				F1B8FDB82FD43C6D00B3E42A /* Debug */,
+				F1B8FDB92FD43C6D00B3E42A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F121A09D2FD32BDF00516434 /* Build configuration list for PBXNativeTarget "SpatialBox" */ = {
+		F1B8FDB52FD43C6D00B3E42A /* Build configuration list for PBXNativeTarget "SpatialBox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F121A09E2FD32BDF00516434 /* Debug */,
-				F121A09F2FD32BDF00516434 /* Release */,
+				F1B8FDB62FD43C6D00B3E42A /* Debug */,
+				F1B8FDB72FD43C6D00B3E42A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -357,11 +357,11 @@
 /* End XCConfigurationList section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		F121A0932FD32BDE00516434 /* RealityKitContent */ = {
+		F1B8FDAB2FD43C6C00B3E42A /* RealityKitContent */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = RealityKitContent;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
-	rootObject = F121A0862FD32BDE00516434 /* Project object */;
+	rootObject = F1B8FD9E2FD43C6C00B3E42A /* Project object */;
 }
